@@ -15,6 +15,7 @@ This Blackboard course organization is designed to guide you through several key
 This program is designed to be flexible and accommodating to your schedule, allowing you to balance your professional and personal obligations while pursuing your certification. Our experienced instructors, field supervisors, and support team are committed to helping you achieve your goal of becoming a certified teacher.
 
  **Watch the short introductory video below to learn more about the program structure.**
-https://github.com/kumj2028/CIED-5301-Alt-Teacher-Prep-I/raw/refs/heads/main/welcome/intro.mp4
+
+https://github.com/user-attachments/assets/402f81f4-043a-4f1c-bb2c-cd048e114655
 
 [Next: Continue to Part 2](welcome2.md)
