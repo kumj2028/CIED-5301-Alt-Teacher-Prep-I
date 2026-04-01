@@ -1,0 +1,1846 @@
+1
+00:00:00,360 --> 00:00:02,680
+Hello, and welcome to
+
+2
+00:00:02,680 --> 00:00:04,600
+San Houston State
+University's
+
+3
+00:00:04,600 --> 00:00:06,600
+alternative
+certification program.
+
+4
+00:00:06,600 --> 00:00:09,560
+We're excited you've
+chosen SHSU and
+
+5
+00:00:09,560 --> 00:00:10,640
+are on your pathway to
+
+6
+00:00:10,640 --> 00:00:12,520
+becoming a
+BearCat teacher.
+
+7
+00:00:12,520 --> 00:00:13,920
+In this video, we want to
+
+8
+00:00:13,920 --> 00:00:15,480
+introduce you to
+the program and
+
+9
+00:00:15,480 --> 00:00:17,120
+the important steps
+you will take to
+
+10
+00:00:17,120 --> 00:00:19,720
+becoming certified
+as a Texas educator.
+
+11
+00:00:19,720 --> 00:00:22,000
+We will also introduce
+you to Blackboard
+
+12
+00:00:22,000 --> 00:00:22,400
+and explain
+
+13
+00:00:22,400 --> 00:00:24,680
+the pre internship
+phase of this program.
+
+14
+00:00:24,680 --> 00:00:26,760
+If you are not seeing
+the PowerPoint
+
+15
+00:00:26,760 --> 00:00:28,480
+slides as the largest
+part of the screen,
+
+16
+00:00:28,480 --> 00:00:29,800
+move your cursor to
+
+17
+00:00:29,800 --> 00:00:31,160
+the upper right
+hand corner of
+
+18
+00:00:31,160 --> 00:00:33,160
+the screen and find
+the two arrows.
+
+19
+00:00:33,160 --> 00:00:34,760
+Clicking on those
+arrows will
+
+20
+00:00:34,760 --> 00:00:37,640
+make the PowerPoint
+slides larger.
+
+21
+00:00:39,980 --> 00:00:43,260
+To begin, we want to
+recognize and thank
+
+22
+00:00:43,260 --> 00:00:44,420
+the faculty who created
+
+23
+00:00:44,420 --> 00:00:46,380
+the alternative
+certification program.
+
+24
+00:00:46,380 --> 00:00:48,380
+This program has
+its roots in
+
+25
+00:00:48,380 --> 00:00:49,580
+the high quality teacher
+
+26
+00:00:49,580 --> 00:00:50,740
+preparation program that
+
+27
+00:00:50,740 --> 00:00:53,380
+has existed at Sam
+Houston State University
+
+28
+00:00:53,380 --> 00:00:55,260
+since 18 79.
+
+29
+00:00:55,260 --> 00:00:57,740
+SHSU has a long
+tradition of
+
+30
+00:00:57,740 --> 00:00:59,460
+preparing excellent
+educators
+
+31
+00:00:59,460 --> 00:01:00,740
+for Texas schools.
+
+32
+00:01:00,740 --> 00:01:02,260
+This team of professors
+
+33
+00:01:02,260 --> 00:01:03,740
+dedicate themselves
+to preparing
+
+34
+00:01:03,740 --> 00:01:05,420
+an alternative
+certification program
+
+35
+00:01:05,420 --> 00:01:07,500
+that upholds the
+proud tradition and
+
+36
+00:01:07,500 --> 00:01:09,060
+prepares teachers to be
+
+37
+00:01:09,060 --> 00:01:12,100
+successful in day one
+in today's classroom.
+
+38
+00:01:12,100 --> 00:01:14,780
+We recognize and
+appreciate their hard work
+
+39
+00:01:14,780 --> 00:01:16,020
+and ongoing dedication
+
+40
+00:01:16,020 --> 00:01:18,380
+to educator preparation.
+
+41
+00:01:18,860 --> 00:01:21,980
+We'll do a quick tour
+through Blackboard.
+
+42
+00:01:21,980 --> 00:01:23,380
+Blackboard holds all of
+
+43
+00:01:23,380 --> 00:01:24,420
+the key components and
+
+44
+00:01:24,420 --> 00:01:24,980
+tasks of
+
+45
+00:01:24,980 --> 00:01:27,180
+the pre internship
+portion of the program.
+
+46
+00:01:27,180 --> 00:01:29,620
+If you were ever unsure
+about what needs to
+
+47
+00:01:29,620 --> 00:01:30,820
+be completed in order to
+
+48
+00:01:30,820 --> 00:01:31,980
+begin your internship,
+
+49
+00:01:31,980 --> 00:01:33,660
+you can find the
+answers here.
+
+50
+00:01:33,660 --> 00:01:35,620
+Because you have
+found this video,
+
+51
+00:01:35,620 --> 00:01:38,900
+you must have found
+the Start Here section
+
+52
+00:01:38,900 --> 00:01:40,020
+and found welcome to
+
+53
+00:01:40,020 --> 00:01:42,060
+the teacher
+certification program.
+
+54
+00:01:42,060 --> 00:01:44,300
+In this section, you will
+
+55
+00:01:44,300 --> 00:01:46,950
+also see other
+helpful sections.
+
+56
+00:01:46,950 --> 00:01:49,200
+Work through
+these sections
+
+57
+00:01:49,200 --> 00:01:50,520
+and watch the videos.
+
+58
+00:01:50,520 --> 00:01:52,440
+They provide helpful
+information.
+
+59
+00:01:52,440 --> 00:01:56,600
+One of these tabs is
+the ACP checklist.
+
+60
+00:01:56,600 --> 00:01:59,480
+This checklist
+contains a roadmap
+
+61
+00:01:59,480 --> 00:02:02,000
+to beginning
+your internship.
+
+62
+00:02:04,720 --> 00:02:07,640
+This program is
+self paced and
+
+63
+00:02:07,640 --> 00:02:08,800
+these steps do not have
+
+64
+00:02:08,800 --> 00:02:10,360
+to be completed in order.
+
+65
+00:02:10,360 --> 00:02:12,480
+There are three
+important milestones
+
+66
+00:02:12,480 --> 00:02:14,560
+in the pre internship
+phase of this program,
+
+67
+00:02:14,560 --> 00:02:16,040
+and we'll briefly
+talk about
+
+68
+00:02:16,040 --> 00:02:18,455
+each one and then go
+into more detail.
+
+69
+00:02:18,455 --> 00:02:21,870
+First, CIED 50 301.
+
+70
+00:02:21,870 --> 00:02:24,190
+Within this course
+are modules,
+
+71
+00:02:24,190 --> 00:02:26,070
+tasks, certifications,
+
+72
+00:02:26,070 --> 00:02:27,950
+and observation
+and interaction
+
+73
+00:02:27,950 --> 00:02:29,310
+requirements
+that need to be
+
+74
+00:02:29,310 --> 00:02:30,910
+completed in order to
+
+75
+00:02:30,910 --> 00:02:33,070
+receive your intern
+certificate.
+
+76
+00:02:33,070 --> 00:02:35,670
+CIED 50 301 must be
+
+77
+00:02:35,670 --> 00:02:38,510
+completed in order to
+qualify for internship.
+
+78
+00:02:38,510 --> 00:02:40,670
+Completion of this
+course gives you
+
+79
+00:02:40,670 --> 00:02:43,310
+150 C hours of
+training that
+
+80
+00:02:43,310 --> 00:02:46,620
+TEA requires for
+intern certification.
+
+81
+00:02:46,620 --> 00:02:48,370
+The second essential
+
+82
+00:02:48,370 --> 00:02:49,730
+component for
+internship is
+
+83
+00:02:49,730 --> 00:02:50,850
+passing your required
+
+84
+00:02:50,850 --> 00:02:53,250
+Texas certification exams.
+
+85
+00:02:53,250 --> 00:02:56,210
+Everyone must pass
+a content area exam
+
+86
+00:02:56,210 --> 00:02:58,570
+related to your
+certification area.
+
+87
+00:02:58,570 --> 00:03:02,450
+SHSU has a contract
+with 240 tutoring,
+
+88
+00:03:02,450 --> 00:03:04,690
+which provides free
+practice tests
+
+89
+00:03:04,690 --> 00:03:06,970
+and discounted
+testing support.
+
+90
+00:03:06,970 --> 00:03:08,530
+Once you have passed
+
+91
+00:03:08,530 --> 00:03:10,330
+your content area
+practice test,
+
+92
+00:03:10,330 --> 00:03:13,730
+a full length test
+with 80% or higher,
+
+93
+00:03:13,730 --> 00:03:15,890
+you can request test
+approval through
+
+94
+00:03:15,890 --> 00:03:19,970
+ACP at Hsu dot EDU.
+
+95
+00:03:19,970 --> 00:03:23,060
+If you are certifying
+in EC three,
+
+96
+00:03:23,060 --> 00:03:26,870
+EC six or 48
+core subjects,
+
+97
+00:03:26,870 --> 00:03:32,230
+48 ELAR or 48 social
+studies with ELAR.
+
+98
+00:03:32,230 --> 00:03:33,750
+The state of Texas
+
+99
+00:03:33,750 --> 00:03:35,510
+requires that
+you also pass
+
+100
+00:03:35,510 --> 00:03:37,150
+the science of
+teaching reading
+
+101
+00:03:37,150 --> 00:03:39,430
+or the STR exam.
+
+102
+00:03:39,430 --> 00:03:42,270
+Our Student Academic
+Success Center
+
+103
+00:03:42,270 --> 00:03:44,190
+in the Newton
+Gresham Library on
+
+104
+00:03:44,190 --> 00:03:46,470
+campus and the Academic
+Success Center at
+
+105
+00:03:46,470 --> 00:03:49,430
+the Woodlands campus
+offer testing support,
+
+106
+00:03:49,430 --> 00:03:51,350
+test taking strategies,
+
+107
+00:03:51,350 --> 00:03:53,750
+writing coaching
+for the STR,
+
+108
+00:03:53,750 --> 00:03:56,320
+and study strategies
+coaching.
+
+109
+00:03:56,320 --> 00:03:58,810
+Within the modules
+of 50 301,
+
+110
+00:03:58,810 --> 00:04:00,330
+there is information
+about completing
+
+111
+00:04:00,330 --> 00:04:02,050
+your required
+observation hours,
+
+112
+00:04:02,050 --> 00:04:03,490
+which is the
+third essential
+
+113
+00:04:03,490 --> 00:04:04,970
+step to internship.
+
+114
+00:04:04,970 --> 00:04:07,690
+The state of Texas
+requires 50 hours of
+
+115
+00:04:07,690 --> 00:04:09,090
+classroom observations
+
+116
+00:04:09,090 --> 00:04:10,450
+and student interactions
+
+117
+00:04:10,450 --> 00:04:12,450
+for all teacher
+candidates.
+
+118
+00:04:12,450 --> 00:04:15,130
+This includes at
+least 25 hours of in
+
+119
+00:04:15,130 --> 00:04:16,930
+person student
+interactions
+
+120
+00:04:16,930 --> 00:04:19,130
+in a Texas classroom.
+
+121
+00:04:19,130 --> 00:04:20,770
+This can be
+completed doing
+
+122
+00:04:20,770 --> 00:04:22,570
+short term substituting,
+
+123
+00:04:22,570 --> 00:04:24,690
+working as an
+educational aid,
+
+124
+00:04:24,690 --> 00:04:26,450
+or volunteering
+in a classroom
+
+125
+00:04:26,450 --> 00:04:28,170
+during the regular
+school day.
+
+126
+00:04:28,170 --> 00:04:30,370
+But these student
+interactions need to be
+
+127
+00:04:30,370 --> 00:04:31,850
+a meaningful part of
+
+128
+00:04:31,850 --> 00:04:33,490
+the interaction time that
+
+129
+00:04:33,490 --> 00:04:35,240
+you are with
+these students.
+
+130
+00:04:35,240 --> 00:04:37,390
+The module in 50 301
+
+131
+00:04:37,390 --> 00:04:38,910
+will explain this
+in more detail.
+
+132
+00:04:38,910 --> 00:04:40,630
+Up to 25 hours
+
+133
+00:04:40,630 --> 00:04:42,110
+can be completed
+through watching
+
+134
+00:04:42,110 --> 00:04:45,230
+videos of high quality
+classroom instruction
+
+135
+00:04:45,230 --> 00:04:47,190
+or observing in
+a classroom.
+
+136
+00:04:47,190 --> 00:04:49,350
+Again, the details
+of this requirement
+
+137
+00:04:49,350 --> 00:04:52,485
+is found in
+Module in 50 301.
+
+138
+00:04:52,485 --> 00:04:54,420
+Once you have completed
+
+139
+00:04:54,420 --> 00:04:56,620
+the course CIED 50 301,
+
+140
+00:04:56,620 --> 00:04:58,580
+passed your content test,
+
+141
+00:04:58,580 --> 00:05:00,580
+and completed
+your 50 hours
+
+142
+00:05:00,580 --> 00:05:02,580
+of observations
+and interactions,
+
+143
+00:05:02,580 --> 00:05:03,900
+you will be eligible to
+
+144
+00:05:03,900 --> 00:05:05,620
+begin your internship.
+
+145
+00:05:05,620 --> 00:05:07,980
+An intern is hired as
+
+146
+00:05:07,980 --> 00:05:09,220
+the teacher of record by
+
+147
+00:05:09,220 --> 00:05:11,140
+a school district,
+charter school,
+
+148
+00:05:11,140 --> 00:05:12,940
+or accredited
+private school
+
+149
+00:05:12,940 --> 00:05:14,420
+and is paid as a teacher
+
+150
+00:05:14,420 --> 00:05:15,820
+with full benefits
+
+151
+00:05:15,820 --> 00:05:17,820
+and with teacher
+retirement.
+
+152
+00:05:17,820 --> 00:05:20,460
+This is when you begin
+your teaching career.
+
+153
+00:05:20,460 --> 00:05:22,500
+Because you are
+hired by a school,
+
+154
+00:05:22,500 --> 00:05:23,580
+you will need to apply
+
+155
+00:05:23,580 --> 00:05:25,220
+for jobs and
+find a position.
+
+156
+00:05:25,220 --> 00:05:27,660
+Be wise, recognize that
+
+157
+00:05:27,660 --> 00:05:29,780
+you have choices
+and options.
+
+158
+00:05:29,780 --> 00:05:32,860
+Find the position that
+is right for you.
+
+159
+00:05:32,860 --> 00:05:36,660
+The second course,
+CIED 50 302,
+
+160
+00:05:36,660 --> 00:05:38,100
+can be completed before
+
+161
+00:05:38,100 --> 00:05:41,060
+your internship or
+during your internship.
+
+162
+00:05:41,060 --> 00:05:43,180
+I would highly recommend
+that you complete
+
+163
+00:05:43,180 --> 00:05:45,340
+as much as 50 302 as
+
+164
+00:05:45,340 --> 00:05:48,180
+possible before you
+begin teaching.
+
+165
+00:05:48,180 --> 00:05:50,940
+You have one year to
+complete both courses.
+
+166
+00:05:50,940 --> 00:05:53,260
+You have a lot to do
+as a new teacher.
+
+167
+00:05:53,260 --> 00:05:55,020
+Anything you can
+do before you
+
+168
+00:05:55,020 --> 00:05:56,820
+begin your internship
+will help you to
+
+169
+00:05:56,820 --> 00:05:58,580
+be more successful
+and make
+
+170
+00:05:58,580 --> 00:06:01,270
+that first year of
+teaching easier for you.
+
+171
+00:06:01,270 --> 00:06:03,640
+You have two internship
+courses that
+
+172
+00:06:03,640 --> 00:06:05,520
+you will register
+for as an intern,
+
+173
+00:06:05,520 --> 00:06:08,160
+CIED 53 98 during
+
+174
+00:06:08,160 --> 00:06:10,080
+your first semester
+of internship
+
+175
+00:06:10,080 --> 00:06:12,600
+and CIED 53 99
+
+176
+00:06:12,600 --> 00:06:15,360
+during your second
+semester of internship.
+
+177
+00:06:15,360 --> 00:06:17,320
+Before you can be
+recommended for
+
+178
+00:06:17,320 --> 00:06:19,600
+standard certification
+with TEA,
+
+179
+00:06:19,600 --> 00:06:21,800
+there is one final
+test you must take.
+
+180
+00:06:21,800 --> 00:06:24,840
+You will need to take
+and pass the PPR exam,
+
+181
+00:06:24,840 --> 00:06:28,120
+pedagogy and professional
+responsibilities.
+
+182
+00:06:28,120 --> 00:06:30,160
+You can prepare
+for and pass
+
+183
+00:06:30,160 --> 00:06:32,980
+this test at any time
+during your program.
+
+184
+00:06:32,980 --> 00:06:36,160
+You will also be creating
+a portfolio during
+
+185
+00:06:36,160 --> 00:06:40,480
+your program known
+as the T CAR CAR.
+
+186
+00:06:40,480 --> 00:06:41,920
+This will be explained
+
+187
+00:06:41,920 --> 00:06:43,600
+in the modules as well.
+
+188
+00:06:43,600 --> 00:06:45,400
+Once you have completed
+
+189
+00:06:45,400 --> 00:06:46,400
+all of the requirements
+
+190
+00:06:46,400 --> 00:06:49,560
+and successfully completed
+your internship,
+
+191
+00:06:49,560 --> 00:06:53,520
+your principal,
+mentor, and SHSU can
+
+192
+00:06:53,520 --> 00:06:54,920
+recommend you for standard
+
+193
+00:06:54,920 --> 00:06:56,280
+teaching certification
+
+194
+00:06:56,280 --> 00:06:57,880
+with the state of Texas.
+
+195
+00:06:57,880 --> 00:07:00,320
+Again, this program
+is self paced.
+
+196
+00:07:00,320 --> 00:07:02,720
+You can complete these
+steps out of order.
+
+197
+00:07:02,720 --> 00:07:04,040
+Work ahead before your
+
+198
+00:07:04,040 --> 00:07:05,720
+internship as
+much as you can,
+
+199
+00:07:05,720 --> 00:07:07,640
+so you can focus
+on teaching with
+
+200
+00:07:07,640 --> 00:07:10,020
+a broad base of
+knowledge and skills.
+
+201
+00:07:10,020 --> 00:07:12,080
+I know this is a
+lot of information.
+
+202
+00:07:12,080 --> 00:07:13,920
+Please feel free to email
+
+203
+00:07:13,920 --> 00:07:15,400
+your professor
+or the program
+
+204
+00:07:15,400 --> 00:07:17,120
+with any questions
+you have.
+
+205
+00:07:17,120 --> 00:07:18,640
+You have links to get
+
+206
+00:07:18,640 --> 00:07:19,960
+your answers to
+the questions
+
+207
+00:07:19,960 --> 00:07:23,240
+within the modules
+in Blackboard,
+
+208
+00:07:23,240 --> 00:07:26,000
+and we are always
+here to help you.
+
+209
+00:07:26,350 --> 00:07:28,910
+Blackboard will guide you
+
+210
+00:07:28,910 --> 00:07:30,870
+through all of the
+phases of the program.
+
+211
+00:07:30,870 --> 00:07:33,470
+The next section of
+Blackboard covers
+
+212
+00:07:33,470 --> 00:07:34,910
+the details of
+the certification
+
+213
+00:07:34,910 --> 00:07:36,150
+exam requirements.
+
+214
+00:07:36,150 --> 00:07:37,310
+This section will give you
+
+215
+00:07:37,310 --> 00:07:39,350
+the information you
+need to prepare for and
+
+216
+00:07:39,350 --> 00:07:41,630
+pass the test that
+Texas requires in
+
+217
+00:07:41,630 --> 00:07:42,390
+order for you to
+
+218
+00:07:42,390 --> 00:07:44,190
+receive your teaching
+certification.
+
+219
+00:07:44,190 --> 00:07:45,630
+Work through this section
+
+220
+00:07:45,630 --> 00:07:47,190
+and watch the videos.
+
+221
+00:07:47,190 --> 00:07:48,790
+Here, you will learn about
+
+222
+00:07:48,790 --> 00:07:50,470
+the resources
+available to you to
+
+223
+00:07:50,470 --> 00:07:52,190
+prepare for and
+be approved to
+
+224
+00:07:52,190 --> 00:07:54,230
+take your
+certification tests.
+
+225
+00:07:54,230 --> 00:07:56,150
+There are several
+important resources
+
+226
+00:07:56,150 --> 00:07:58,340
+here to help you
+prepare for testing.
+
+227
+00:07:58,340 --> 00:08:01,690
+Always remember the
+Academic Success Center
+
+228
+00:08:01,690 --> 00:08:04,730
+at SHSU is available
+to help you.
+
+229
+00:08:04,730 --> 00:08:06,210
+They can provide one on
+
+230
+00:08:06,210 --> 00:08:07,650
+one support and provide
+
+231
+00:08:07,650 --> 00:08:09,170
+coaching that can increase
+
+232
+00:08:09,170 --> 00:08:11,850
+your chances for success.
+
+233
+00:08:12,250 --> 00:08:14,450
+The next section provide
+
+234
+00:08:14,450 --> 00:08:16,570
+details about the
+field experiences and
+
+235
+00:08:16,570 --> 00:08:18,530
+observation hours
+required by the state of
+
+236
+00:08:18,530 --> 00:08:21,980
+Texas for all Texas
+teachers candidates.
+
+237
+00:08:21,980 --> 00:08:23,990
+You are required
+to complete
+
+238
+00:08:23,990 --> 00:08:25,590
+50 hours of observations,
+
+239
+00:08:25,590 --> 00:08:27,030
+at least 25 hours of
+
+240
+00:08:27,030 --> 00:08:28,590
+which must involve
+interactions
+
+241
+00:08:28,590 --> 00:08:31,350
+with students in an
+authentic school setting
+
+242
+00:08:31,350 --> 00:08:33,670
+in a TEA
+accredited school.
+
+243
+00:08:33,670 --> 00:08:35,830
+These interactions can be
+
+244
+00:08:35,830 --> 00:08:37,510
+done working with
+small groups,
+
+245
+00:08:37,510 --> 00:08:40,070
+providing support to
+individual students
+
+246
+00:08:40,070 --> 00:08:41,630
+during a class session,
+
+247
+00:08:41,630 --> 00:08:43,110
+or supporting a teacher
+
+248
+00:08:43,110 --> 00:08:44,790
+in teaching a whole class.
+
+249
+00:08:44,790 --> 00:08:46,790
+You are not required
+to plan with
+
+250
+00:08:46,790 --> 00:08:48,470
+a teacher or
+teach the class,
+
+251
+00:08:48,470 --> 00:08:49,510
+but you should be
+
+252
+00:08:49,510 --> 00:08:50,790
+involved with
+students during
+
+253
+00:08:50,790 --> 00:08:54,190
+the regular school day
+in a meaningful way.
+
+254
+00:08:54,190 --> 00:08:56,590
+These observations
+must be done during
+
+255
+00:08:56,590 --> 00:08:58,030
+the regular school hours
+
+256
+00:08:58,030 --> 00:08:59,110
+and include a focus on
+
+257
+00:08:59,110 --> 00:09:01,910
+the Texas essential
+knowledge and skills or
+
+258
+00:09:01,910 --> 00:09:05,350
+Ts Field experiences can
+
+259
+00:09:05,350 --> 00:09:07,630
+be completed as an
+educational aide,
+
+260
+00:09:07,630 --> 00:09:09,230
+a substitute teacher,
+
+261
+00:09:09,230 --> 00:09:10,910
+or as a teacher
+of record if you
+
+262
+00:09:10,910 --> 00:09:12,510
+are working in the
+classroom already as
+
+263
+00:09:12,510 --> 00:09:14,670
+a DOI waiver teacher.
+
+264
+00:09:14,670 --> 00:09:18,390
+Up to 25 hours of field
+experience hours can
+
+265
+00:09:18,390 --> 00:09:19,830
+be completed
+virtually through
+
+266
+00:09:19,830 --> 00:09:22,430
+watching videos of
+classroom instruction.
+
+267
+00:09:22,430 --> 00:09:24,190
+The module and Blackboard
+
+268
+00:09:24,190 --> 00:09:25,430
+has links to classroom
+
+269
+00:09:25,430 --> 00:09:26,550
+videos that you can use
+
+270
+00:09:26,550 --> 00:09:28,925
+for these virtual
+observations.
+
+271
+00:09:28,925 --> 00:09:31,580
+All observations
+require completion
+
+272
+00:09:31,580 --> 00:09:33,940
+of a log and a
+written reflection.
+
+273
+00:09:33,940 --> 00:09:35,620
+In this reflection,
+
+274
+00:09:35,620 --> 00:09:37,740
+talk about what you
+would do differently,
+
+275
+00:09:37,740 --> 00:09:39,020
+how you could
+apply some of
+
+276
+00:09:39,020 --> 00:09:41,060
+these strategies in
+your own classroom,
+
+277
+00:09:41,060 --> 00:09:43,220
+what was helpful
+and useful
+
+278
+00:09:43,220 --> 00:09:45,460
+to students, how
+students react,
+
+279
+00:09:45,460 --> 00:09:46,900
+wired reflection
+
+280
+00:09:46,900 --> 00:09:48,780
+that gives some
+insight into how
+
+281
+00:09:48,780 --> 00:09:51,140
+you were impacted or
+
+282
+00:09:51,140 --> 00:09:52,755
+learned from these videos.
+
+283
+00:09:52,755 --> 00:09:54,730
+If you're observing
+in a classroom,
+
+284
+00:09:54,730 --> 00:09:56,850
+the teacher of record
+in the classroom
+
+285
+00:09:56,850 --> 00:09:59,290
+will need to verify your
+hours through email.
+
+286
+00:09:59,290 --> 00:10:00,770
+If you are working
+in a school
+
+287
+00:10:00,770 --> 00:10:02,050
+as an instructional aide,
+
+288
+00:10:02,050 --> 00:10:04,290
+substitute teacher or
+teacher of record,
+
+289
+00:10:04,290 --> 00:10:06,930
+your principal can
+verify your hours
+
+290
+00:10:06,930 --> 00:10:09,930
+or HR can verify the
+hours in the district.
+
+291
+00:10:09,930 --> 00:10:11,530
+Virtual hours can be
+
+292
+00:10:11,530 --> 00:10:13,370
+verified by your
+instructor or by
+
+293
+00:10:13,370 --> 00:10:17,130
+emailing ACP at s dot ed.
+
+294
+00:10:17,130 --> 00:10:18,010
+This would be for
+
+295
+00:10:18,010 --> 00:10:20,730
+the video observations
+that you complete.
+
+296
+00:10:20,730 --> 00:10:23,410
+Look through the modules,
+watch the videos.
+
+297
+00:10:23,410 --> 00:10:24,770
+If you have any
+additional questions,
+
+298
+00:10:24,770 --> 00:10:26,410
+please contact
+your instructor
+
+299
+00:10:26,410 --> 00:10:28,410
+or email the program.
+
+300
+00:10:30,040 --> 00:10:32,720
+This section
+contains a summary
+
+301
+00:10:32,720 --> 00:10:33,960
+of what you need
+to do in order
+
+302
+00:10:33,960 --> 00:10:35,400
+to qualify for
+a statement of
+
+303
+00:10:35,400 --> 00:10:37,240
+eligibility or an SOE,
+
+304
+00:10:37,240 --> 00:10:39,520
+and to apply for an
+intern certificate
+
+305
+00:10:39,520 --> 00:10:41,840
+with the Texas
+Education Agency.
+
+306
+00:10:41,840 --> 00:10:45,840
+The three steps are 150
+hours of coursework,
+
+307
+00:10:45,840 --> 00:10:50,480
+which is completed by
+finishing CIED 50 301,
+
+308
+00:10:50,480 --> 00:10:52,720
+passing the
+required tests,
+
+309
+00:10:52,720 --> 00:10:54,840
+which includes your
+content test and
+
+310
+00:10:54,840 --> 00:10:57,040
+possibly the STR depending
+
+311
+00:10:57,040 --> 00:10:58,780
+on your
+certification area.
+
+312
+00:10:58,780 --> 00:11:01,040
+And completing 50 hours of
+
+313
+00:11:01,040 --> 00:11:04,160
+field observations and
+student interactions.
+
+314
+00:11:04,160 --> 00:11:06,600
+Once these things
+have been completed,
+
+315
+00:11:06,600 --> 00:11:08,320
+you can email the program
+
+316
+00:11:08,320 --> 00:11:10,200
+or work with
+your professor.
+
+317
+00:11:10,200 --> 00:11:12,800
+We can issue your
+statement of eligibility,
+
+318
+00:11:12,800 --> 00:11:14,640
+and you can begin
+applying for
+
+319
+00:11:14,640 --> 00:11:17,280
+positions in
+school districts.
+
+320
+00:11:17,710 --> 00:11:20,710
+Third important
+step to internship
+
+321
+00:11:20,710 --> 00:11:23,430
+is completing that 150
+hours of coursework.
+
+322
+00:11:23,430 --> 00:11:26,150
+For this program, you
+will need a text.
+
+323
+00:11:26,150 --> 00:11:27,750
+You can subscribe to
+
+324
+00:11:27,750 --> 00:11:29,670
+an e text through Pearson.
+
+325
+00:11:29,670 --> 00:11:33,030
+This text is closely
+linked to the modules,
+
+326
+00:11:33,030 --> 00:11:34,030
+and you will need to use
+
+327
+00:11:34,030 --> 00:11:35,510
+it to pass the course.
+
+328
+00:11:35,510 --> 00:11:37,590
+The link in 50 301
+
+329
+00:11:37,590 --> 00:11:38,870
+will guide you
+to obtaining
+
+330
+00:11:38,870 --> 00:11:40,750
+a subscription through
+
+331
+00:11:40,750 --> 00:11:42,430
+Pearson for the e text.
+
+332
+00:11:42,430 --> 00:11:44,710
+If you would like a
+hard copy of the text,
+
+333
+00:11:44,710 --> 00:11:46,230
+I would recommend
+that you contact
+
+334
+00:11:46,230 --> 00:11:47,630
+Pearson directly.
+
+335
+00:11:47,630 --> 00:11:50,150
+The text is quite
+expensive on Amazon.
+
+336
+00:11:50,150 --> 00:11:51,310
+It is important that you
+
+337
+00:11:51,310 --> 00:11:52,870
+get the tenth edition.
+
+338
+00:11:52,870 --> 00:11:54,510
+There's an
+option on Amazon
+
+339
+00:11:54,510 --> 00:11:55,710
+to get the Kindle edition
+
+340
+00:11:55,710 --> 00:11:56,990
+if that works
+better for you or
+
+341
+00:11:56,990 --> 00:11:58,730
+is most cost effective.
+
+342
+00:11:58,730 --> 00:12:01,670
+Research your options
+and decide what form of
+
+343
+00:12:01,670 --> 00:12:02,910
+text you would be
+
+344
+00:12:02,910 --> 00:12:05,550
+most beneficial
+for you to use.
+
+345
+00:12:05,550 --> 00:12:08,710
+There are five TEA
+required trainings
+
+346
+00:12:08,710 --> 00:12:10,470
+embedded within
+the modules.
+
+347
+00:12:10,470 --> 00:12:12,310
+You need to make
+sure that you pass
+
+348
+00:12:12,310 --> 00:12:13,470
+each one of
+those trainings
+
+349
+00:12:13,470 --> 00:12:14,550
+and pass the test.
+
+350
+00:12:14,550 --> 00:12:17,310
+Add these training
+certificates
+
+351
+00:12:17,310 --> 00:12:19,110
+to your portfolio.
+
+352
+00:12:19,110 --> 00:12:22,270
+If you are certifying
+in PK three,
+
+353
+00:12:22,270 --> 00:12:25,950
+your modules are
+the ECHE modules
+
+354
+00:12:25,950 --> 00:12:28,550
+at the bottom
+of Blackboard.
+
+355
+00:12:28,550 --> 00:12:30,190
+Make sure you
+are completing
+
+356
+00:12:30,190 --> 00:12:31,310
+the correct modules and
+
+357
+00:12:31,310 --> 00:12:33,150
+working through the
+correct modules.
+
+358
+00:12:33,150 --> 00:12:35,270
+If you are not
+in PK three,
+
+359
+00:12:35,270 --> 00:12:38,350
+you do not complete
+those ECHE modules.
+
+360
+00:12:38,350 --> 00:12:39,990
+If you have
+questions on finding
+
+361
+00:12:39,990 --> 00:12:41,110
+the right modules and the
+
+362
+00:12:41,110 --> 00:12:42,710
+right information or
+getting the text,
+
+363
+00:12:42,710 --> 00:12:45,270
+please contact
+your instructor.
+
+364
+00:12:45,990 --> 00:12:49,350
+The very last section
+in Blackboard
+
+365
+00:12:49,350 --> 00:12:52,390
+describes the T
+car portfolio.
+
+366
+00:12:52,390 --> 00:12:54,830
+You will be creating
+this portfolio all the
+
+367
+00:12:54,830 --> 00:12:57,230
+way along the pathway
+to certification.
+
+368
+00:12:57,230 --> 00:12:59,910
+It is important that you
+be aware of what you
+
+369
+00:12:59,910 --> 00:13:01,110
+should be
+gathering in your
+
+370
+00:13:01,110 --> 00:13:03,350
+portfolio from day
+one in the program.
+
+371
+00:13:03,350 --> 00:13:05,550
+Be sure to look at
+the short video
+
+372
+00:13:05,550 --> 00:13:07,310
+on this page and
+skim through
+
+373
+00:13:07,310 --> 00:13:08,950
+the resource guides
+so you understand
+
+374
+00:13:08,950 --> 00:13:12,630
+the expectations for
+this capstone portfolio.
+
+375
+00:13:12,680 --> 00:13:15,000
+Thank you for
+taking your time
+
+376
+00:13:15,000 --> 00:13:16,520
+to walk through
+this with me.
+
+377
+00:13:16,520 --> 00:13:18,400
+As always, we
+are here to help
+
+378
+00:13:18,400 --> 00:13:20,520
+you in any way that
+we possibly can.
+
+379
+00:13:20,520 --> 00:13:22,560
+You are well supported
+in this program,
+
+380
+00:13:22,560 --> 00:13:24,320
+but you need to
+reach out sometimes.
+
+381
+00:13:24,320 --> 00:13:25,440
+Make sure you ask
+
+382
+00:13:25,440 --> 00:13:27,080
+the questions
+you need to ask,
+
+383
+00:13:27,080 --> 00:13:29,200
+get the support
+you need to get.
+
+384
+00:13:29,200 --> 00:13:30,560
+The college has a lot of
+
+385
+00:13:30,560 --> 00:13:31,720
+rich resources that can
+
+386
+00:13:31,720 --> 00:13:32,800
+help you in any areas.
+
+387
+00:13:32,800 --> 00:13:35,640
+If you ever run into
+difficulties or have
+
+388
+00:13:35,640 --> 00:13:37,160
+a need for extra help or
+
+389
+00:13:37,160 --> 00:13:39,000
+assistance or
+have questions,
+
+390
+00:13:39,000 --> 00:13:42,640
+our email is
+ACP at sts.org.
+
+391
+00:13:42,640 --> 00:13:44,360
+Please reach out. We're so
+
+392
+00:13:44,360 --> 00:13:45,160
+excited to have you
+
+393
+00:13:45,160 --> 00:13:46,680
+here and have you
+in our program,
+
+394
+00:13:46,680 --> 00:13:49,600
+and we're excited to
+have you help you to get
+
+395
+00:13:49,600 --> 00:13:51,080
+along your
+pathway to become
+
+396
+00:13:51,080 --> 00:13:53,800
+a certified
+teacher in Texas.
+
