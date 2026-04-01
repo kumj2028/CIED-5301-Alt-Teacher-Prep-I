@@ -21,8 +21,7 @@ Upon completion of CIED 5301, you will be able to move on to the **Modules 7–1
 ---
 
 *Watch the short introductory video below to learn more about getting started.*
-<video controls>
-  <source src="directions.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/41a508c8-a873-46b3-be7e-6b870cf32728
 
 [Next: Continue to Part 4](welcome4.md)
